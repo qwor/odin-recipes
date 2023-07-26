@@ -1,0 +1,35 @@
+body {
+    background-color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+    margin: 5% 10%;
+}
+h1, h2 {
+    text-align: center;
+}
+p, li {
+    font-size:18px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.back {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color:darkslategrey; 
+}
+ul.main {
+    text-align: center;
+    list-style-type:none;
+}
+.ingredients {
+    list-style-type: none;
+    text-align: center;
+    border: 5px dashed rgb(105, 58, 0);
+    padding: 8px;
+    border-radius: 5%;
+}
